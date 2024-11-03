@@ -8,7 +8,7 @@ Bootstrap Treeview，一个非常简单的插件，用Bootstrap 5构建一个基
 
 A very simple plugin to build a basic and elegant Treeview with boostrap 5. 原主不更新，我只好自己更新了。
 
-![Bootstrap Tree View Default](https://github.com/chniter/bstreeview/blob/master/screeshots/bstreeview.PNG?raw=true)
+![Bootstrap Tree View Default](https://github.com/bigbluefox/bstreeview/blob/main/screeshots/bstreeview.PNG?raw=true)
 
 ## Dependencies
 
